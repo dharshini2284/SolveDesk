@@ -41,9 +41,9 @@ This is a single-user local prototype. It does not prove that a person tested a 
 
 Once the required packages and embedding model are cached and the Ollama model is available locally, the app can run without sending prompts to an external AI service.
 
-## Setup (PowerShell)
+## Setup
 
-Open PowerShell in the `SolveDesk` folder and run:
+Open terminal in the `SolveDesk` folder and run:
 
 ```powershell
 py -3.11 -m venv .venv
