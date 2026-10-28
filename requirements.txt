@@ -1,0 +1,9 @@
+streamlit>=1.38
+pandas>=2.0
+openpyxl>=3.1
+python-docx>=1.1
+requests>=2.31
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26
+PyMuPDF>=1.24
