@@ -4,19 +4,16 @@ The main idea behind SolveDesk is to help users find solutions to previously enc
 
 It maintains a knowledge base using Excel to store problem details and Word documents to store solutions. When an existing solution is unavailable, the application can generate an AI-based suggestion for the user to review and verify before adding it to the knowledge base.
 
-## Demo##  Demo Video
+## Demo Video
 
 [**Watch the Demo on Loom**](https://www.loom.com/share/92b08655eba843e7ade02a7dfe9c01b8)
 
 ## Screenshots
 
 ### Screenshot 1
-![Application Screenshot 1](https://github.com/user-attachments/assets/1090f5b3-522e-4db9-9388-c415e0f3fec6)
-
-### Screenshot 2
 ![Application Screenshot 2](https://github.com/user-attachments/assets/64ce9123-0ab9-44ba-b9ef-3ec56b15d033)
 
-### Screenshot 3
+### Screenshot 2
 ![Application Screenshot 3](https://github.com/user-attachments/assets/7a074ceb-6c40-45ca-a68a-d84fae8663c2)
 
 
