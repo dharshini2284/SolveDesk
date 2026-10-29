@@ -58,7 +58,7 @@ Check that Ollama can load the configured model:
 
 ```powershell
 ollama list
-ollama run llama3.2:3b
+ollama run llama3.2:1b
 ```
 
 If the model cannot start, fix that issue before testing AI generation in the app.
@@ -78,7 +78,7 @@ Open the local address printed in the terminal, usually `http://localhost:8501`.
 - Solution Documents: Microsoft Word (.docx)
 - Semantic Search: Sentence Transformers model
 - Fallback Search: Keyword-overlap matching
-- Local LLM: Ollama with llama3.2:3b
+- Local LLM: Ollama with llama3.2:1b
 - Document Processing: Python libraries for handling Excel, Word, PDF and TXT files
 
 ## How it works
